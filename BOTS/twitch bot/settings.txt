@@ -1,0 +1,6 @@
+discord_link=https://discord.gg/<REDACTED>
+# Discord link
+
+PASS=oauth:<REDACTED>
+# Get from https://twitchapps.com/tmi/
+

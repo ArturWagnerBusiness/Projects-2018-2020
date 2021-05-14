@@ -1,0 +1,8 @@
+eis3twitch=0
+mikuia=0
+moobot=0
+nightbot=0
+streamelements=0
+commanderroot=0
+sickfold=0
+eis3bot=0
