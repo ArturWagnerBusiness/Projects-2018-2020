@@ -1,6 +1,6 @@
 """
 [*****************************************************************]
-[ I believe that if you have access to this file then I fucked up ]
+[ I believe that if you have access to this file then I messed up ]
 [ You were never meant to get this file to be seen by your eyes!  ]
 [ I believe that we will need to have a small talk... Shall we?   ]
 [*****************************************************************]
